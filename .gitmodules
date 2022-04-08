@@ -1,3 +1,0 @@
-[submodule "django"]
-	path = django
-	url = https://github.com/BrentPF/cps847-a3-django
