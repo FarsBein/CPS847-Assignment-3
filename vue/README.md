@@ -61,4 +61,4 @@ export default {
 
 ### [10%] Deploy the code on the scs VM (see details below)
 
-![unknown](https://user-images.githubusercontent.com/53714581/162545074-848d749b-f603-4608-9883-f5d5d140a735.png)
+![Deployment](https://user-images.githubusercontent.com/53714581/162547441-7264bdd5-7466-48bc-9709-62f1884e4a8e.png)
